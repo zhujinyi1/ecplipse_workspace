@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1608217276037_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1608217276037_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1609574630098_4" label="3-eg" name="3-eg">
+<item elementID="=hellojava" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=四则运算" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=unicode表" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=转义字符" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=常量和变量的声明" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=与或非" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=位运算" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=三元运算符" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1609750911244_6" label="4-eg" name="4-eg">
+<item elementID="=复合语句" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=跳出指定循环" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=continue的使用" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1609752096419_7" label="4-text" name="4-text">
+<item elementID="=判断奇偶" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=打印菱形" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=计算式子" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1608217277319_2" label="Window Working Set" name="Aggregate for window 1608217277319"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1609574658306_5" label="多个工作集" name="Aggregate:3:3-eg:">
+<workingSet IMemento.internal.id="3-eg"/>
+</workingSet>
+<mruList name="3-eg"/>
+</workingSetManager>

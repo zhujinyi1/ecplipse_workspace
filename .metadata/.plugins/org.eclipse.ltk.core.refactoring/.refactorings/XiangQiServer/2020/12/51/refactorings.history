@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;WEB-INF&apos; to &apos;MANIFEST.MF&apos;&#x0D;&#x0A;－ 原始项目：“XiangQiServer”&#x0D;&#x0A;－ 目标元素：“MANIFEST.MF”&#x0D;&#x0A;－ 原始元素：“WEB-INF”&#x0D;&#x0A;－ 更新对已重构元素的引用" description="移动文件夹" element1="WebRoot/WEB-INF" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1608290648283" target="WebRoot/META-INF/MANIFEST.MF" units="0" version="1.0"/>
+</session>

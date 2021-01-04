@@ -1,0 +1,10 @@
+package 三元运算符;
+
+public class 三元运算符 {
+
+	public static void main(String[] args) {
+		// TODO 自动生成的方法存根
+
+	}
+
+}

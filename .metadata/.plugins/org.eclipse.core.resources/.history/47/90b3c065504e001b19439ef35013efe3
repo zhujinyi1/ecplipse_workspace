@@ -1,0 +1,13 @@
+package 三元运算符;   
+         //等价于if else语句
+public class 三元运算符 {
+
+	public static void main(String[] args) {
+		// TODO 自动生成的方法存根
+		boolean x=20<45?true:false;
+		System.out.println(b);
+		
+
+	}
+
+}
