@@ -22,6 +22,14 @@
 <item elementID="=打印菱形" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=计算式子" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1609828645435_8" label="5-eg" name="5-eg">
+<item elementID="=字符串定义" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=字符串截取" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=字符串长度" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=字符串中查找特定字符" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=字符串连接" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=非字符串连接" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1608217277319_2" label="Window Working Set" name="Aggregate for window 1608217277319"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1609574658306_5" label="多个工作集" name="Aggregate:3:3-eg:">
 <workingSet IMemento.internal.id="3-eg"/>
