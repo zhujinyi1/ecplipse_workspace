@@ -16,11 +16,12 @@
 <item elementID="=复合语句" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=跳出指定循环" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=continue的使用" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=foreach（遍历数组）" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
-<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1609752096419_7" label="4-text" name="4-text">
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1609752096419_7" label="4-test" name="4-test">
 <item elementID="=判断奇偶" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=打印菱形" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=计算式子" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=打印菱形" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1609828645435_8" label="5-eg" name="5-eg">
 <item elementID="=字符串定义" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -29,6 +30,28 @@
 <item elementID="=字符串中查找特定字符" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=字符串连接" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=非字符串连接" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=获取指定位置字符" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=获取字符串" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=去除空格" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=字符串替换" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=判断字符串开始与结尾" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=判断字符串是否相等" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=用字典比较字符串" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=字母大小写转换" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=字符串分割" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=格式化字符串" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=常规类型的格式化" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=正则表达式" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=字符串生成器" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1610158892985_9" label="5-test" name="5-test">
+<item elementID="=大小写转换" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=比较截取的字符串" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=手机号是否合法" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=追加字符" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1610162602126_11" label="6-eg" name="6-eg">
+<item elementID="=数组的定义" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1608217277319_2" label="Window Working Set" name="Aggregate for window 1608217277319"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1609574658306_5" label="多个工作集" name="Aggregate:3:3-eg:">
