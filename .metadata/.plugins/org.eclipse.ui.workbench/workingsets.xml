@@ -72,6 +72,12 @@
 <item elementID="=对象的比较" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=对象的销毁" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1610534127375_14" label="7-test" name="7-test">
+<item elementID="=7-1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=7-2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=7-3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1610599845597_15" label="8-eg" name="8-eg"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1608217277319_2" label="Window Working Set" name="Aggregate for window 1608217277319"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1609574658306_5" label="多个工作集" name="Aggregate:3:3-eg:">
 <workingSet IMemento.internal.id="3-eg"/>
